@@ -1,4 +1,4 @@
-# 👀 Victor Souza
+# Victor Souza
 
 ## 🔍 Expertise
 - **Malware Analysis**: In-depth knowledge of malware behaviors, reverse engineering, and threat hunting.
